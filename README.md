@@ -1,2 +1,0 @@
-# mycaptainprojects
-For sharing projects
