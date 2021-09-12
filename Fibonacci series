@@ -1,6 +1,7 @@
 a=0
 b=1
-for I in range(10):
+n=int(input("Enter the number of the series u want: ") 
+for I in range(n):
      c=a+b
      a=b
      b=c
